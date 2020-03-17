@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.555c7c9b.chunk.css",
+    "main.js": "/static/js/main.c97c2d14.chunk.js",
+    "main.js.map": "/static/js/main.c97c2d14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.335ad2b1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.335ad2b1.js.map",
+    "static/js/2.f965736b.chunk.js": "/static/js/2.f965736b.chunk.js",
+    "static/js/2.f965736b.chunk.js.map": "/static/js/2.f965736b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0b6f47719e143d2ba36e0c18dfeeb7a.js": "/precache-manifest.b0b6f47719e143d2ba36e0c18dfeeb7a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.555c7c9b.chunk.css.map": "/static/css/main.555c7c9b.chunk.css.map",
+    "static/js/2.f965736b.chunk.js.LICENSE.txt": "/static/js/2.f965736b.chunk.js.LICENSE.txt",
+    "static/media/sort-asc.svg": "/static/media/sort-asc.b5e00e04.svg",
+    "static/media/sort-desc.svg": "/static/media/sort-desc.391ccdd8.svg",
+    "static/media/sort-not.svg": "/static/media/sort-not.a455d9bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.335ad2b1.js",
+    "static/js/2.f965736b.chunk.js",
+    "static/css/main.555c7c9b.chunk.css",
+    "static/js/main.c97c2d14.chunk.js"
+  ]
+}
