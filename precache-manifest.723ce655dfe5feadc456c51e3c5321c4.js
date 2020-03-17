@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea843db6dbda8a4468d503643a1667e2",
+    "revision": "b19a2858072953afa1fb43200425badc",
     "url": "/datagrid-depl/index.html"
   },
   {
-    "revision": "e1db630a8f12f1e9eb21",
-    "url": "/datagrid-depl/static/css/main.555c7c9b.chunk.css"
+    "revision": "52aba49dbdb6f77e263d",
+    "url": "/datagrid-depl/static/css/main.c3355234.chunk.css"
   },
   {
     "revision": "9c4f59e08ac671b74d8d",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/datagrid-depl/static/js/2.f965736b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1db630a8f12f1e9eb21",
+    "revision": "52aba49dbdb6f77e263d",
     "url": "/datagrid-depl/static/js/main.9e4e5ad2.chunk.js"
   },
   {
