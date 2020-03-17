@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.555c7c9b.chunk.css",
-    "main.js": "/static/js/main.c97c2d14.chunk.js",
-    "main.js.map": "/static/js/main.c97c2d14.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.335ad2b1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.335ad2b1.js.map",
-    "static/js/2.f965736b.chunk.js": "/static/js/2.f965736b.chunk.js",
-    "static/js/2.f965736b.chunk.js.map": "/static/js/2.f965736b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b0b6f47719e143d2ba36e0c18dfeeb7a.js": "/precache-manifest.b0b6f47719e143d2ba36e0c18dfeeb7a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.555c7c9b.chunk.css.map": "/static/css/main.555c7c9b.chunk.css.map",
-    "static/js/2.f965736b.chunk.js.LICENSE.txt": "/static/js/2.f965736b.chunk.js.LICENSE.txt",
-    "static/media/sort-asc.svg": "/static/media/sort-asc.b5e00e04.svg",
-    "static/media/sort-desc.svg": "/static/media/sort-desc.391ccdd8.svg",
-    "static/media/sort-not.svg": "/static/media/sort-not.a455d9bd.svg"
+    "main.css": "/datagrid-depl/static/css/main.555c7c9b.chunk.css",
+    "main.js": "/datagrid-depl/static/js/main.9e4e5ad2.chunk.js",
+    "main.js.map": "/datagrid-depl/static/js/main.9e4e5ad2.chunk.js.map",
+    "runtime-main.js": "/datagrid-depl/static/js/runtime-main.5b623d44.js",
+    "runtime-main.js.map": "/datagrid-depl/static/js/runtime-main.5b623d44.js.map",
+    "static/js/2.f965736b.chunk.js": "/datagrid-depl/static/js/2.f965736b.chunk.js",
+    "static/js/2.f965736b.chunk.js.map": "/datagrid-depl/static/js/2.f965736b.chunk.js.map",
+    "index.html": "/datagrid-depl/index.html",
+    "precache-manifest.f1acabe156f81a38da48beec2e15b86d.js": "/datagrid-depl/precache-manifest.f1acabe156f81a38da48beec2e15b86d.js",
+    "service-worker.js": "/datagrid-depl/service-worker.js",
+    "static/css/main.555c7c9b.chunk.css.map": "/datagrid-depl/static/css/main.555c7c9b.chunk.css.map",
+    "static/js/2.f965736b.chunk.js.LICENSE.txt": "/datagrid-depl/static/js/2.f965736b.chunk.js.LICENSE.txt",
+    "static/media/sort-asc.svg": "/datagrid-depl/static/media/sort-asc.b5e00e04.svg",
+    "static/media/sort-desc.svg": "/datagrid-depl/static/media/sort-desc.391ccdd8.svg",
+    "static/media/sort-not.svg": "/datagrid-depl/static/media/sort-not.a455d9bd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.335ad2b1.js",
+    "static/js/runtime-main.5b623d44.js",
     "static/js/2.f965736b.chunk.js",
     "static/css/main.555c7c9b.chunk.css",
-    "static/js/main.c97c2d14.chunk.js"
+    "static/js/main.9e4e5ad2.chunk.js"
   ]
 }
